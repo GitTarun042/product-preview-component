@@ -45,5 +45,5 @@ I'm Looking Forward To Make More Use Of Grid Property I'm Sure I'll Will be Help
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Github -  
+- Frontend Mentor - [@Tharun](https://www.frontendmentor.io/profile/GitThaRun)
+- Github -  [@GitTharun](https://github.com/GitThaRun)
